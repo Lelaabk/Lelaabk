@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀
 
-![Profile Banner](https://github.com/Lelaabk/profile-banner.png)
+<img src="/sunshine.jpg" border="0">
 
 ## About Me 💁‍♀️
 
@@ -48,6 +48,8 @@ Thank you for visiting my colorful GitHub profile. Let's create digital magic th
 
 Happy coding and designing! 🌼🎨
 
-![Design GIF]([https://github.com/Lelaabk/design.gif](https://unsplash.com/fr/photos/computer-portatile-accanto-al-monitor-con-tastiera-e-mouse-EJMTKCZ00I0))
+<img src="/pc.jpg" border="0">
+
 ------
+
 [![](https://visitcount.itsvg.in/api?id=Lelaabk&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
