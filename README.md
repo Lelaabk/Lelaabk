@@ -25,6 +25,12 @@ I'm well-versed in a wide range of technologies, including:
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Lelaabk&theme=onedark&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+## GitHub Stats 📈
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lelaabk&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![Layla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lelaabk&show_icons=true&theme=dracula)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lelaabk&theme=dracula&hide_border=false)
+
 ## What You'll Find Here 🌼
 
 My repositories are like a garden of tech and design, blooming with a variety of projects. From pixel-perfect websites to user-friendly mobile apps, you'll find a creative fusion of code and design. Feel free to explore, learn, and get inspired!
