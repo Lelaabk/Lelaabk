@@ -21,6 +21,10 @@ I'm well-versed in a wide range of technologies, including:
 - 🤖 **Machine Learning**: Python, TensorFlow, scikit-learn
 - 🎮 **Game Design**: Unity, Godot
 
+## GitHub Profile Trophy 🏆
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Lelaabk&theme=onedark&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## What You'll Find Here 🌼
 
 My repositories are like a garden of tech and design, blooming with a variety of projects. From pixel-perfect websites to user-friendly mobile apps, you'll find a creative fusion of code and design. Feel free to explore, learn, and get inspired!
@@ -44,6 +48,6 @@ Thank you for visiting my colorful GitHub profile. Let's create digital magic th
 
 Happy coding and designing! 🌼🎨
 
-![Design GIF](https://github.com/Lelaabk/design.gif)
+![Design GIF]([https://github.com/Lelaabk/design.gif](https://unsplash.com/fr/photos/computer-portatile-accanto-al-monitor-con-tastiera-e-mouse-EJMTKCZ00I0))
 ------
 [![](https://visitcount.itsvg.in/api?id=Lelaabk&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
