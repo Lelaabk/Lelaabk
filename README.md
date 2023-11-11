@@ -56,6 +56,10 @@ Happy coding and designing! 🌼🎨
 
 <img src="/pc.jpg" border="0">
 
+
+##Let's say a joke
+
+<img src="/joke.jpg" border="0">
 ------
 
 [![](https://visitcount.itsvg.in/api?id=Lelaabk&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
