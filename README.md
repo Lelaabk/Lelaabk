@@ -98,7 +98,6 @@ Happy coding and designing! 🌼🎨
 
 <hr>
 <p align="center">
-	<img alt="Lelaabk's visitors" src="https://komarev.com/ghpvc/?username=Lelaabk&color=8c36db&style=flat&label=visitors" />
 	<img alt="Lelaabk's followers" src="https://img.shields.io/github/followers/Lelaabk?color=blueviolet" />
 	<img alt="Lelaabk's stars" src="https://img.shields.io/github/stars/Lelaabk?color=blueviolet" />
 </p>
