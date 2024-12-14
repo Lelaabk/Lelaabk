@@ -43,6 +43,7 @@ With a background in computer science and an insatiable curiosity, I'm on a jour
   <img align="center" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
   </div>
 <br/>
+<hr>
 I'm well-versed in a wide range of technologies, including:
 
 - 💻 **Front-end Web Development**: HTML, CSS, JavaScript, React, Vue.js
@@ -94,3 +95,10 @@ Happy coding and designing! 🌼🎨
 ------
 
 [![](https://visitcount.itsvg.in/api?id=Lelaabk&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+
+<hr>
+<p align="center">
+	<img alt="Lelaabk's visitors" src="https://komarev.com/ghpvc/?username=Lelaabk&color=8c36db&style=flat&label=visitors" />
+	<img alt="Lelaabk's followers" src="https://img.shields.io/github/followers/Lelaabk?color=blueviolet" />
+	<img alt="Lelaabk's stars" src="https://img.shields.io/github/stars/Lelaabk?color=blueviolet" />
+</p>
