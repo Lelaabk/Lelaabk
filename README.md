@@ -42,8 +42,9 @@ With a background in computer science and an insatiable curiosity, I'm on a jour
 
   <img align="center" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
   </div>
-<br/>
+
 <hr>
+
 I'm well-versed in a wide range of technologies, including:
 
 - 💻 **Front-end Web Development**: HTML, CSS, JavaScript, React, Vue.js
@@ -52,6 +53,11 @@ I'm well-versed in a wide range of technologies, including:
 - 📊 **Data Visualization**: D3.js, Chart.js
 - 🤖 **Machine Learning**: Python, TensorFlow, scikit-learn
 - 🎮 **Game Design**: Unity, Godot
+
+## My Resume 📄
+
+-🌟 **[✨ View My Resume ✨](https://drive.google.com/file/d/1h4EevC0tXR0IjHDHWphMNOBBIouivrSi/view?usp=sharing)
+
   
 ## GitHub Profile Trophy 🏆
 
