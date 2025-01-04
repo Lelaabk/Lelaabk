@@ -56,7 +56,7 @@ I'm well-versed in a wide range of technologies, including:
 
 ## My Resume 📄
 
-- <a href="https://drive.google.com/file/d/1h4EevC0tXR0IjHDHWphMNOBBIouivrSi/view?usp=sharing" target="_blank" rel="noopener noreferrer">🌟 **✨ View My Resume ✨** 🌟</a>
+- [🌟 **✨ View My Resume ✨** 🌟](https://drive.google.com/file/d/1h4EevC0tXR0IjHDHWphMNOBBIouivrSi/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}
 
 ## GitHub Profile Trophy 🏆
 
