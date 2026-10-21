@@ -54,9 +54,6 @@ I'm well-versed in a wide range of technologies, including:
 - 🤖 **Machine Learning**: Python, TensorFlow, scikit-learn
 - 🎮 **Game Design**: Unity, Godot
 
-## My Resume 📄
-
-- 🌟✨<a href="https://drive.google.com/file/d/1h4EevC0tXR0IjHDHWphMNOBBIouivrSi/view?usp=sharing" target="_blank" rel="noopener noreferrer"> **View My Resume**</a>✨🌟
 
 ## GitHub Profile Trophy 🏆
 
