@@ -1,4 +1,4 @@
-# Layla Abkari's GitHub Profile ✨
+# Lela's GitHub Profile ✨
 
 Welcome to my GitHub profile! 🚀
 
